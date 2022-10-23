@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88586df5.css",
-    "main.js": "/static/js/main.5008641f.js",
+    "main.js": "/static/js/main.9badcdfa.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/DSC_6610.JPG": "/static/media/DSC_6610.e7a9d7a79a81ec42848d.JPG",
     "static/media/kasa.png": "/static/media/kasa.30691fe7cd91c64b7eb7.png",
@@ -11,14 +11,17 @@
     "static/media/bank.png": "/static/media/bank.11bff04c5dea1f35a5ea.png",
     "static/media/lespetitsplats.png": "/static/media/lespetitsplats.ea80954d5e87a1f8cb1d.png",
     "static/media/fisheye.png": "/static/media/fisheye.0eb70290d96006ad72ec.png",
+    "static/media/cardcomponent.png": "/static/media/cardcomponent.d245cd4bd5314078db6b.png",
+    "static/media/tennisplayerstats.png": "/static/media/tennisplayerstats.cf6342f210a5b8635e24.png",
+    "static/media/weatherforecast.png": "/static/media/weatherforecast.219c02a83ace34bfebd4.png",
     "static/media/sportsee.png": "/static/media/sportsee.55de997d4e2295b8ef09.png",
     "index.html": "/index.html",
     "main.88586df5.css.map": "/static/css/main.88586df5.css.map",
-    "main.5008641f.js.map": "/static/js/main.5008641f.js.map",
+    "main.9badcdfa.js.map": "/static/js/main.9badcdfa.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88586df5.css",
-    "static/js/main.5008641f.js"
+    "static/js/main.9badcdfa.js"
   ]
 }

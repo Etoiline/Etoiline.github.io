@@ -30,5 +30,17 @@
 {"name":"Bank",
 "source":"https://github.com/Etoiline/LauraCasteran_13_19052022",
 "overview":"",
-"image":"bank.png"}
+"image":"bank.png"},
+{"name":"Tennis player stats",
+"source":"https://github.com/Etoiline/Tennis-players-stats",
+"overview":"https://etoiline.github.io/Tennis-players-stats/",
+"image":"tennisplayerstats.png"},
+{"name":"Card component",
+"source":"https://github.com/Etoiline/Card-component",
+"overview":"https://etoiline.github.io/Card-component/",
+"image":"weatherforecast.png"},
+{"name":"Weather-forecast",
+"source":"https://github.com/Etoiline/weather-forecast",
+"overview":"https://etoiline.github.io/weather-forecast/",
+"image":"weatherforecast.png"}
 ]
